@@ -6,7 +6,7 @@ Add an item. Delete an item. Search an item.
 
 JavaScript Practice Session:
 
-- HMTL / CSS
+- HTML / CSS
 - Adding Items
 - Deleting Items
 - Searching and Filtering
